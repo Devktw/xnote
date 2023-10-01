@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Xnote</string>
+    <string name="hint_title">ชื่อโน๊ต</string>
+    <string name="hint_subtitle">รายละเอียด</string>
+    <string name="title_add_activity">เพิ่มโน๊ต</string>
+    <string name="title_edit_activity">แก้ไขโน๊ต</string>
+    <string name="nav_open">เปิดแถบข้าง</string>
+    <string name="nav_close">ปิดแถบข้าง</string>
+    <string name="color">สี</string>
+    <string name="background">สีพื้นหลัง</string>
+</resources>

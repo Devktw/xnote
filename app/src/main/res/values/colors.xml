@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorprimary">#FFFFFF</color>
+    <color name="colorprimarydark">#FFFFFF</color>
+    <color name="coloraccent">#0099FF</color>
+    <color name="colorGray">#CCCCCC</color>
+    <color name="colorRed">#EE0000</color>
+    <color name="darkbar">#222222</color>
+    <color name="darkb">#222222</color>
+    <color name="hintc">#FFFFFF</color>
+    <color name="act">#0099FF</color>
+    <color name="save">#00CC00</color>
+    <color name="error">#FFC200</color>
+    <color name="shadowbottom">#CF000000</color>
+
+    <color name="colornotab">#838486</color>
+    <color name="colorTabwatch">#888888</color>
+</resources>
